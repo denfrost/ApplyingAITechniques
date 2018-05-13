@@ -1,0 +1,2 @@
+# ApplyingAITechniques
+During the autumn term, you explored a range of AI algorithms before completing two summative tasks: route planning for NPCs, and an Artificial Life Simulation. For this coursework, you will be competing in a shared environment, to pit your own AI implementations (or bots) against those of other students, in a predator-prey scenario using the Unity engine and C#. See below for details.
